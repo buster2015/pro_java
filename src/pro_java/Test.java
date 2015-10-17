@@ -3,5 +3,6 @@ package pro_java;
 public class Test {
 	public static void main(String[] args) {
 		System.out.println("ooooooo");
+		System.out.println("klklklkl");
 	}
 }
